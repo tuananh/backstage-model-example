@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: Demo API
+  name: demo-api
   description: Demo API
   tags:
     - demo
