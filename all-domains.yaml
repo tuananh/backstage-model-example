@@ -7,3 +7,4 @@ spec:
   targets:
     - ./domains/artists-domain.yaml
     - ./domains/playback-domain.yaml
+    - ./domains/platform-domain.yaml

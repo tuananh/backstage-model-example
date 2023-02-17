@@ -8,3 +8,4 @@ spec:
     - ./systems/artist-engagement-portal-system.yaml
     - ./systems/audio-playback-system.yaml
     - ./systems/podcast-system.yaml
+    - ./systems/jenkins-system.yaml
