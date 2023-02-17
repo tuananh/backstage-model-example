@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: platform
+  description: Everything related to Tech Platform
+  links:
+    - url: http://example.com/domain/artists/
+      title: Domain Readme
+spec:
+  owner: team-platform
